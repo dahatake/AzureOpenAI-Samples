@@ -1,0 +1,5 @@
+{
+    "CHATGPT_MODEL":"<Your deployment name>", 
+    "OPENAI_API_BASE":"https://<your Azure OpenAI service Instance name>.openai.azure.com",
+    "OPENAI_API_VERSION":"2023-07-01-preview"
+}
